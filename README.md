@@ -9,5 +9,6 @@ The source repository for the open source version of the Airnimals Webring which
 
 # Future upgrades
 - php  version (future branch)
-- hosted version, including new site registration & admin frontend (future branch)
+- free saas version (future branch)
+- frontend for new site registration & admin dashboard (future branch)
 
