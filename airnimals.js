@@ -1,7 +1,7 @@
 // ### CONFIG AREA ###
 
 const serURL = 'https://domain.com' ;
-// put the url here where the script is hosted
+// put the url here where the script is hosted e.g. https://airnimals.org
 
 const ringNAME = 'Airnimals Collective' ;
 // specify the name of your webring
